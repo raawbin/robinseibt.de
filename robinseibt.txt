@@ -7,7 +7,7 @@ Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglagl
 <p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software. 
 I also have a passion for Linux.
 <br>
- You can find my more professional portfolio here<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing profile</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+ You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@rawbin:matrix.org">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --><a href="online@robinseibt.de">Email</a>.
