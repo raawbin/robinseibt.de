@@ -12,6 +12,8 @@ I also have a passion for Linux.
 
 Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --> online@robinseibt.de.
 
-<p> At last my private Nextcloud server <a href="https://robinseibt.de/nextcloud">here</a>
-
 <p>Cheers!</p>
+<br>
+<br>
+<br>
+<a href="https://robinseibt.de/nextcloud">Nextcloud</a>
