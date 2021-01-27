@@ -4,11 +4,13 @@ My favorite quote, "<span id="k">Was für eine Boshaftigkeit, es gibt kein Koks 
 
 Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software. I also have a passion for Linux.
+<p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software. 
+I also have a passion for Linux.
  You can find my more professional portfolio here<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing profile</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I'm not active on social media, <br><br><br>but you can get in touch with me via Matrix <a href="https://matrix.to/#/@rawbin:matrix.org"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> I got my own Nextcloud Server <a href="https://robinseibt.de/nextcloud">here</a>, it's private for now.
+<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@rawbin:matrix.org">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 If you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --><a href="online@robinseibt.de">Email</a>.
+
+<p> At last my private Nextcloud server <a href="https://robinseibt.de/nextcloud">here</a>
 
 <p>Cheers!</p>
