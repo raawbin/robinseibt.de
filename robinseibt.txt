@@ -1,6 +1,6 @@
 <span id="a">robin@seibt</span>:<span id="b">~</span><span id="c">$</span> cd robinseibt/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">robin@seibt</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->robinseibt.txt<br/><br/>
-My favorite quote, "<span id="k">Was für eine Boshaftigkeit, es gibt kein Koks auf Hawaii </span>". (by Trailerpark)<!-- sjkfhskjf -->
+My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 
 Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
