@@ -2,12 +2,13 @@
 <span id="a">robin@seibt</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->robinseibt.txt<br/><br/>
 My favorite quote, "<span id="k">Was für eine Boshaftigkeit, es gibt kein Koks auf Hawaii</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing profile</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software. I also have a passion for Linux.
+ You can find my more professional portfolio here<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing profile</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>I'm not active on social media, <br><br><br>but you can get in touch with me via Matrix <a href="https://matrix.to/#/@rawbin:matrix.org"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> I got my own Nextcloud Server <a href="https://robinseibt.de/nextcloud">here</a>, it's private for now.
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="online@robinseibt.de">Email</a>.
+If you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --><a href="online@robinseibt.de">Email</a>.
 
 <p>Cheers!</p>
