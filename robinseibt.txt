@@ -3,6 +3,7 @@
 My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 
 Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br>
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software. 
 I also have a passion for Linux.
