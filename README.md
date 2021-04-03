@@ -1,2 +1,2 @@
-# raawbin.github.io
+# Terminal skin homepage
 Nothing to see here :)
