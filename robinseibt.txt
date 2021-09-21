@@ -5,7 +5,9 @@ My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br>
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I've worked in Customer Support (2nd level) for over two years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software.
+<P>I'm currently working as Sysadmin for Landratsamt Alb-Donau-kreis.
+<br>
+<p>I've worked in 2nd level Support for two and a half years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software.
 I also have a passion for Linux.
 <br>
  You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
@@ -17,4 +19,4 @@ Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- long
 <br>
 <br>
 <br>
-Personal <a href="https://robinseibt.de/nextcloud">Nextcloud</a>
+Personal <a href="derhartekern.space">Nextcloud</a>
