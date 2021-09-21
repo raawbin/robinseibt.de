@@ -2,11 +2,10 @@
 <span id="a">robin@seibt/About_Me</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->robinseibt.txt<br/><br/>
 My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 
-Hey There! This is my portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey There! This is my portflio website themed as a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br>
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <P>I'm currently working as Sysadmin for Landratsamt Alb-Donau-kreis.
-<br>
 <p>I've worked in 2nd level Support for two and a half years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software.
 I also have a passion for Linux.
 <br>
