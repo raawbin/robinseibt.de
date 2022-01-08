@@ -5,14 +5,14 @@ My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 Hey There! This is my portflio website themed as a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br>
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<P>I'm currently working as Sysadmin for Landratsamt Alb-Donau-kreis.
-<p>I've worked in 2nd level Support for two and a half years at Daimler Fleetboard. Mainly with SQL and some proprietary in house software.
+<P>I'm currently working as Sysadmin for <a href="https://www.alb-donau-kreis.de/startseite.html">Landratsamt Alb-Donau-kreis</a>.
+<p>I've worked in 2nd level Support for two and a half years at <a href="https://www.fleetboard.info/software/#/"> Daimler Fleetboard</a>. Mainly with SQL and some proprietary in house software.
 I also have a passion for Linux.
 <br>
  You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@rawbin:tchncs.de">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@rawbin:matrix.org">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --> online@robinseibt.de.
+Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --> robinseibt@robinseibt.de.
 
 <p>Cheers!</p>
 <br>
