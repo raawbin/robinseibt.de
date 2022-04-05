@@ -10,7 +10,7 @@ Hey There! This is my portflio website themed as a terminal.<!-- laglaglaglaglag
 I also have a passion for Linux.
 <br>
  You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@rawbin:server.matrix4ulm.de">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@thomasthetiefighter:server.matrix4ulm.de">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --> robinseibt@robinseibt.de.
 
