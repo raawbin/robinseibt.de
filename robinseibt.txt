@@ -5,8 +5,9 @@ My favorite quote, "<span id="k">The Cake is a Lie!</span>".<!-- sjkfhskjf -->
 Hey There! This is my portflio website themed as a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br>
 <p>My Name is Robin, </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<P>I'm currently working as Sysadmin for <a href="https://www.alb-donau-kreis.de/startseite.html">Landratsamt Alb-Donau-kreis</a>.
-<p>I've worked in 2nd level Support for two and a half years at <a href="https://www.fleetboard.info/software/#/"> Daimler Fleetboard</a>. Mainly with SQL and some proprietary in house software.
+<P>I'm currently employed by <a href="https://www.liebherr.com/en/deu/products/refrigeration-freezing/refrigeration-freezing.html">Liebherr Hausgeräte Ochsenhausen GmbH</a> working in client management.
+<P>I was working as Sysadmin for <a href="https://www.alb-donau-kreis.de/startseite.html">Landratsamt Alb-Donau-kreis</a> for about seven months.
+<p>Before that i worked in 2nd level Support for two and a half years at <a href="https://www.fleetboard.info/software/#/"> Daimler Fleetboard</a>. Mainly with SQL and some proprietary in house software.
 I also have a passion for Linux.
 <br>
  You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
