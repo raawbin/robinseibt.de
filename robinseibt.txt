@@ -13,7 +13,7 @@ I also have a passion for Linux.
  You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@thomasthetiefighter:server.matrix4ulm.de">Matrix</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
-Or if you prefer email<!-- slightdelayhere-->, feel free to send one to<!-- longlonglongcomment --> robinseibt@robinseibt.de.
+Or if you prefer email. <!-- slightdelayhere--><!-- longlonglongcomment --> robinseibt@robinseibt.de Please use <a href="https://mail-api.proton.me/pks/lookup?op=get&search=robinseibt@robinseibt.de"> my GnuPG key</a>.
 
 <p>Cheers!</p>
 <br>
