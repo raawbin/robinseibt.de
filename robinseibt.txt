@@ -4,17 +4,17 @@ My favorite quote, "<span id="k">The Cake is a Lie!</span>".
 <br>
 Hey There! This is my portflio website themed as a terminal.
 <br>
-<p>My Name is Robin, </p>
-<P>I'm currently employed by <a href="https://www.liebherr.com/en/deu/products/refrigeration-freezing/refrigeration-freezing.html">Liebherr Hausgeräte Ochsenhausen GmbH</a> working in client management.
-<P>I was working as Sysadmin for <a href="https://www.alb-donau-kreis.de/startseite.html">Landratsamt Alb-Donau-kreis</a> for about seven months.
-<p>Before that i worked in 2nd level Support for two and a half years at <a href="https://www.fleetboard.info/software/#/"> Daimler Fleetboard</a>. Mainly with SQL and some proprietary in house software.
+My Name is Robin,
+I'm currently employed by <a href="https://www.liebherr.com/en/deu/products/refrigeration-freezing/refrigeration-freezing.html">Liebherr Hausgeräte Ochsenhausen GmbH</a> working in client management.
+I was working as Sysadmin for <a href="https://www.alb-donau-kreis.de/startseite.html">Landratsamt Alb-Donau-kreis</a> for about seven months.
+Before that i worked in 2nd level Support for two and a half years at <a href="https://www.fleetboard.info/software/#/"> Daimler Fleetboard</a>. Mainly with SQL and some proprietary in house software.
 I also have a passion for Linux.
 <br>
- You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.</p>
-<p>I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@thomasthetiefighter:server.matrix4ulm.de">Matrix</a>.</p>
+ You can find my more professional portfolio here on<a href="https://www.xing.com/profile/Robin_Seibt/cv"> Xing</a>.
+I'm not active on social media, <br><br><br>but you can get in touch with me through <a href="https://matrix.to/#/@thomasthetiefighter:server.matrix4ulm.de">Matrix</a>.
 
 Or if you prefer email. robinseibt@robinseibt.de Please use <a href="https://mail-api.proton.me/pks/lookup?op=get&search=robinseibt@robinseibt.de"> my GnuPG key</a>.
 
-<p>Cheers!</p>
+Cheers!
 <br>
 <br>
