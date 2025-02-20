@@ -1,3 +1,5 @@
+[Is it DNS?](https://isitdns.com/)
+
 [Terminal Trove](https://terminaltrove.com/)
 
 [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/)
